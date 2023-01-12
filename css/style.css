@@ -4,7 +4,7 @@ p{
     display: flex;
     justify-content: center;
     font-size: 30px;
-    font-family: fantasy;
+    font-family: cursive;
 }
 
 .left{
@@ -62,10 +62,6 @@ a{
 
 }
 
-h2{
-    font-family: fantasy;
-    
-}
 body{
     padding: 500 px;
    margin-top: 50px;
