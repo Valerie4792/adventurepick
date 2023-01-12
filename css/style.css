@@ -48,6 +48,20 @@ a{
     object-fit: contain;
 
 }
+#fire {
+
+    width: 300px;
+    height: 500px;
+    object-fit: contain;
+}
+
+#tavern {
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+
+}
+
 h2{
     font-family: fantasy;
     
@@ -64,5 +78,10 @@ body{
     color: rgb(164, 12, 12);
     font-size: xx-large;
 
+}
+.centerMe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
